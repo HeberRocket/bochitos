@@ -1,0 +1,48 @@
+header{
+  background-color: rgb(11, 161, 56);
+  text-align: center;
+  padding: 40px;
+  font-size: 35px;
+  font-weight: bold;
+  color: #f5f2f2;
+}
+
+#gallery {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+main{
+  font-size: 30px;
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+}
+
+img {
+  width: 300px;
+  height: auto;
+  margin: 0 10px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+  color: #f6e9e9f6;
+  background-color: rgb(6, 123, 33);
+  border: none;
+}
+
+footer{
+  background-color: black;
+  
+  text-align: center;
+  
+  color: #f5f2f2;
+  padding: 20px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
